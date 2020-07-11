@@ -20,8 +20,5 @@ The comments were then coded by hand, in order to identify particular coping str
 - videoinfo_VbiRNT_gWUQ_2020_01_16-10_08_40_comments.tab
 Data gathered from the video https://youtu.be/VbiRNT_gWUQ, produced by the National Geographic, featured by  Business Insider. This is the original dataset extracted through the YTDT video info and comments module, without further additions, or deletions.
 
-
-
-
-
-
+- lda_tuning_results.csv
+Data extracted from LDA models in the process of hyperparameter tuning, which means fixing model input parameters and calculating the resulting coherence scores.

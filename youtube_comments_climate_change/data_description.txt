@@ -23,5 +23,8 @@ Data gathered from the video https://youtu.be/VbiRNT_gWUQ, produced by the Natio
 - lda_tuning_results.csv
 Data extracted from LDA models in the process of hyperparameter tuning, which means fixing model input parameters and calculating the resulting coherence scores.
 
+- lda_tuning_results_2.csv
+Results of a second run of hyperparameter tuning with added metrics. 
+
 - stoplist.txt
 Manually assembled stop list.

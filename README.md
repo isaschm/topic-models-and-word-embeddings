@@ -3,7 +3,7 @@
 This repo contains all files for my bachelor thesis on the utility of clustering algorithms at the Technische Universität in Berlin, Germany.
 
 ## Content 
-* `Topic_Models_and_Embeddings.ipynb`: A copy of the final Google Collab pipeline
+* `Topic_Models_and_Embeddings.ipynb`: A copy of the final Google Colab pipeline
 * `gensim_lda.ipynb`: The LDA pipeline
 * `get_embeddings.py`: A python script to create text embeddings from a CSV file
 * `text_embeddings_final_pipeline`: The final text embeddings pipeline
